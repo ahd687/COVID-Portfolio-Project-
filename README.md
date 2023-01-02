@@ -23,6 +23,5 @@ This project is based on MS SQL Server
 
 ## Code and Resources Used
 *  Alex The Analyst Youtube Chanel https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2 
-*  Data Source: ourworldindata.org Links https://ourworldindata.org/covid-deaths
-* Rows: 246017 Columns: 21 (Null values were found in the dataset. This has been taken  into consideration during the analysis 
-                               We have been taken into )
+* Data Source: ourworldindata.org Links https://ourworldindata.org/covid-deaths
+* Rows: 246017 Columns: 21 (We have been taken into consideration the null values  during the analysis )
