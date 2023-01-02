@@ -9,8 +9,7 @@ An exploratory data analysis project on Covid19 cases, deaths, and vaccinations 
 SELECT CAST(MAX(date) AS DATE) AS  [Date that we got our Date From  https://ourworldindata.org/]
 FROM [dbo].[CovidDeaths]
 ```
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text](https://github.com/ahd687/COVID-Portfolio-Project-/blob/main/Datadate.png)
 
 This project is based on MS SQL Server
 
