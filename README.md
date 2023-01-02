@@ -26,3 +26,10 @@ This project is based on MS SQL Server
 *  Alex The Analyst Youtube Chanel https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2 
 * Data Source: ourworldindata.org Links https://ourworldindata.org/covid-deaths
 * Rows: 246017 Columns: 21 (We have been taken into consideration the null values  during the analysis )
+
+
+## Importing Data Into SQL Server
+We imported data from SQL Server Import and Export Data (64 bit) wizard, is launched from the Start Menu.
+
+## SQL Data Exploration
+* 
