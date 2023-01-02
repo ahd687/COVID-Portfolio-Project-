@@ -32,4 +32,12 @@ This project is based on MS SQL Server
 We imported data from SQL Server Import and Export Data (64 bit) wizard, is launched from the Start Menu.
 
 ## SQL Data Exploration
-* 
+*  Percentage of Tatal Deaths on Tatal Cases
+*  Percentage of Tatal Cases vs Population
+*  Countries with highest Infection Rate Compared to Population
+*  Continents (Regions) Infection Rate  Compared to Population 
+*  Countries with highest Deaths number  Per Population
+*  Continents with highest Deaths number  Per Population
+*  Percentage of Total Deaths per Total Cases
+*  Person Vaccinatinated VS  Population
+*  Total cases per Year
